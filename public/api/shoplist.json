@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": 1,
+      "name": "粉螺堂-柳州螺狮粉",
+      "location": 1.5,
+      "score": 4.8,
+      "sold": 3561,
+      "avatar": "https://img.88tph.com/tphc.1/production/20180109/12444847.jpg"
+    },
+    {
+      "id": 1,
+      "name": "粉螺堂-柳州螺狮粉",
+      "location": 1.5,
+      "score": 4.8,
+      "sold": 3561,
+      "avatar": "https://img.88tph.com/tphc.1/production/20180109/12444847.jpg"
+    }
+  ]
+}
